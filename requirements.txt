@@ -1,6 +1,7 @@
 streamlit
-pycontrails[complete]
-traffic
+pandas
+numpy
 pydeck
-geopandas
+requests
+shapely
 google-auth
