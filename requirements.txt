@@ -1,0 +1,6 @@
+streamlit
+pycontrails[complete]
+traffic
+pydeck
+geopandas
+google-auth
